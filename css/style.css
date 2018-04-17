@@ -449,7 +449,7 @@ footer p {
 }
 
 .curriculum .col-50 img {
-  width: 100%;
+  height: 100%;
 }
 
 .curriculum label {
@@ -714,6 +714,11 @@ footer p {
   float: none;
   width: 100%;
   height: 100%;
+}
+
+.curriculum .col-50 img {
+  height: none;
+  width: 100%;
 }
 
 .reg-box {
