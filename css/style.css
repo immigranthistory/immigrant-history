@@ -481,6 +481,11 @@ footer p {
   margin-bottom: 10px;
 }
 
+#resources-holder {
+  height: 100%;
+  margin-top: 0px;
+}
+
 .resources h2 {
   text-align: left;
   margin-left: 6%;
